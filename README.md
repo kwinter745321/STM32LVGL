@@ -5,6 +5,6 @@ Repository for code files and video information
 
 MicroPython LVGL for STM32
 
-This GitHub Repository (Repo) provides MicroPython LVGL 9.x information regarding the STM32 microcontrollers. Here I have collected datasheets, firmware and programs for each YouTube video.
+This GitHub Repository (Repo) provides MicroPython LVGL 9.x information regarding the STM32 microcontrollers. Here I collect datasheets, firmware and programs for each YouTube video.
 
 
