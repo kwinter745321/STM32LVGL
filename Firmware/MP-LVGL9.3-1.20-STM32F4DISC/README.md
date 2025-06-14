@@ -6,3 +6,6 @@ the STMPE811 Touch controller.  There is a 8MByte SDRAM that acts
 like PSRAM giveing the MP User 8MB of ram.
 
 The pinouts are discussed in the Video 40 released 17 June 2025.
+
+Although the banner says 1.20, when we run the sys.implementation MicroPython
+reports that the version is 1.24.1.
