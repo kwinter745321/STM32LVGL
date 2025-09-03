@@ -24,19 +24,20 @@ https://github.com/kwinter745321/STM32LVGL/tree/main/Videos/Video52
 |-----------|-------------------------------|----------|
 |           |                               |          |
 | Datasheets |                              |          |
-|           | stm32f4discovery-kit.pdf      | ST User Manual  |
+|           | Test_scan_i2c.py      | ST User Manual  |
 |           |  stmpe811.pdf                 | ST User Manual  |
 |           |                               |          |
 | Desktop   |                               |          |
-|           | test_button_display.py    | The first demonstration program. |
-|           | test_matrix_display.py    | The second demonstration program. |
-|           | test_keyboard_display.py    | The third demonstration program. |
+|           | test_gauge_mpu6050.py    | The main demonstration program with the gauges. |
+|           | test_mpu6050.py    | A programby Warayut Poomiwatracanont to test mpu6050. |
 |           | test_scan_I2c.py    | Tests I2C channel and returns address of any devices. |
 |           |                               |          |
 | PYBflash  |                               |          |
 |           | display_driver.py    |  Edit this with your Pin Names.        |
 |           | ili9xxx.py    |  Display classes.        |
+|           | gauge.py    | The gauge class program. |
 |           | lv_utils.py    |  Utility used by lvgl.        |
+|           | MPU6060.py   | Warayut Poomiwatracanont driver. |
 |           | st77xx.py    |  Base display classes.        |
 |           | stmpe811.py    |  Touch class.        |
 |           |                               |          |

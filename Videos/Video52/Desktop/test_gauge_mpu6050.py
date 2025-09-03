@@ -1,6 +1,6 @@
 # test_gauge_mpu6050.py
 #
-# Migrated from https://blog.embeddedexpert.io/?p=2093
+# MPU6050 code migrated from Warayut Poomiwatracanont
 # Updated: 21 August 2025
 #
 # Copyright (C) 2025 KW Services.

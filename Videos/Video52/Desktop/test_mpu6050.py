@@ -1,10 +1,15 @@
+# test_mpu6050.py
+#
+# Warayut Poomiwatracanont test program for mpu-6050
+# modified for STM32F4Discovery board
+
 import machine
 import time
 from MPU6050 import MPU6050
 
 # Set up the I2C interface
 #i2c = machine.I2C(1, sda=machine.Pin(14), scl=machine.Pin(15))
-i2c = machine.SoftI2C(sda=machine.Pin("PB9"), scl=machine.Pin("PB8"), freq=100000)
+i2c = machine.SoftI2C(sda=machine.Pin("PB8"), scl=machine.Pin("PB9"), freq=100000)
 # Set up the MPU6050 class 
 mpu = MPU6050(bus=i2c)
 time.sleep(1)

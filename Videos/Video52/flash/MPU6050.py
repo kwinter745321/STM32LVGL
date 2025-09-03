@@ -1,7 +1,5 @@
 # Class to read data from the (GY-521) MPU6050 Accelerometer/Gyro Module
 # Ported to MicroPython by Warayut Poomiwatracanont JAN 2023
-# Original repo https://github.com/nickcoutsos/MPU-6050-Python
-# and https://github.com/CoreElectronics/CE-PiicoDev-MPU6050-MicroPython-Module
 
 from math import sqrt, atan2
 from machine import Pin, SoftI2C
