@@ -16,7 +16,7 @@ In this video,
  - Walk-through the driver, gauge and test programs
 
 The code for this video is available at the GitHub site:
-https://github.com/kwinter745321/STM32LVGL/tree/main/Videos/video52
+https://github.com/kwinter745321/STM32LVGL/tree/main/Videos/Video52
 
 # Files
 
