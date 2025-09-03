@@ -1,3 +1,17 @@
+# gauge.py
+#
+# Created: 21 August 2025
+#
+# Copyright (C) 2025 KW Services.
+# MIT License
+# Verified using:
+#   MicroPython v1.20.0-2504.g9fe842956 on 2025-06-04; F429I-DISCO with STM32F429
+#   STM32F4DISC (STM32)
+# LVGL 9.3
+#
+
+# This is a LVGL 9.3 class to create a custom gauge on an ILI9341 display
+
 import lvgl as lv
 import time
 import math

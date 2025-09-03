@@ -24,8 +24,7 @@ https://github.com/kwinter745321/STM32LVGL/tree/main/Videos/Video52
 |-----------|-------------------------------|----------|
 |           |                               |          |
 | Datasheets |                              |          |
-|           | Test_scan_i2c.py      | ST User Manual  |
-|           |  stmpe811.pdf                 | ST User Manual  |
+|           | MPU-6000-Datasheet1.py      | MPU-6050 Datasheet  |
 |           |                               |          |
 | Desktop   |                               |          |
 |           | test_gauge_mpu6050.py    | The main demonstration program with the gauges. |
